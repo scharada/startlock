@@ -5,6 +5,10 @@
 	Name="StartLock"
 	ProjectGUID="{1CA89C26-7B3E-42ED-A28A-27F02F6CCF85}"
 	RootNamespace="StartLock"
+	SccProjectName="Svn"
+	SccAuxPath="Svn"
+	SccLocalPath="Svn"
+	SccProvider="SubversionScc"
 	TargetFrameworkVersion="131072"
 	>
 	<Platforms>
